@@ -75,8 +75,8 @@ Project-project ini semua pernah saya kerjakan langsung dalam proses pembelajara
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=syachrul&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syachrul&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-noblocks.vercel.app/api?username=syachrul&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-noblocks.vercel.app/api/top-langs/?username=syachrul&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
