@@ -1,76 +1,97 @@
-# Hi, I'm Syachrul Ramadani 👋  
-Software Engineering Student • Mobile Dev • Creative Tech
-
-Saya seorang mahasiswa Rekayasa Perangkat Lunak yang fokus pada **pengembangan aplikasi mobile** dan **otomasi script**. Sebagian besar project saya adalah aplikasi Flutter terhubung dengan Supabase, sistem auth web dengan JWT, perbaikan backend CI4, serta sedikit eksplorasi pada dunia 3D modeling.
-
----
-
-## 🚀 Project yang Sudah Pernah Saya Kerjakan
-
-### 📱 Flutter + Supabase
-- Membangun **Note App** lengkap dengan:
-  - Login/Register (Supabase Auth)
-  - CRUD catatan
-  - Edit Profil
-  - Struktur folder modular (models, screens, widgets, services)
-- Membangun aplikasi **DailyQuest/ToDoList**:
-  - Splash screen, login, register, home
-  - Integrasi Supabase
-  - Perbaikan UI & debugging Supabase
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2d2d44&height=220&text=Syachrul%20Ramadani&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Mobile%20Developer%20%7C%20Creative%20Tech&descAlignY=60&descSize=16" />
+</p>
 
 ---
 
-### 🌐 Web Login – Register – Profile (JWT)
-- Sistem login berbasis **HTML/CSS/JS + PHP**
-- Backend menggunakan **CodeIgniter 4**
-- Flow lengkap: register → login → JWT → cek profil
-- Testing menggunakan Postman
-- Mengubah alur aplikasi agar lebih efisien (tanpa kembali ke index)
+## 🔥 About Me
+Saya seorang mahasiswa **Rekayasa Perangkat Lunak** yang fokus pada:
+- **Flutter + Supabase mobile apps**
+- **Web Authentication (JWT)**
+- **CodeIgniter debugging & API**
+- **Python automation untuk Ethical Hacking**
+- **3D Modeling Blender**
+
+Project-project ini semua pernah saya kerjakan langsung dalam proses pembelajaran & eksperimen teknis.
 
 ---
 
-### 🛠️ CodeIgniter 4 Work & Debugging
-- Mengatasi error PHP extension (intl, dll.)
-- Setup CI4 di XAMPP
-- Memperbaiki routing, controller, dan tampilan
-- Menjalankan project hingga normal kembali
+## 🌌 What I've Built
+### 📱 **Flutter + Supabase**
+✔ Note App  
+✔ Login/Register (Supabase Auth)  
+✔ CRUD Catatan  
+✔ Edit Profil  
+✔ Struktur folder modular (models, screens, widgets, services)  
+
+✔ DailyQuest / ToDoList  
+✔ UI: Splash, Login, Register, Home  
+✔ Debugging Supabase + perbaikan build  
 
 ---
 
-### 🐍 Ethical Hacking Script (Python)
-**Recon Pro**
-- Port scanning sederhana  
-- HTTP enumeration  
-- Regex parsing text  
-- Dibangun untuk kebutuhan belajar cyber security di Kali Linux
+### 🌐 **Web Auth – JWT Flow**
+✔ Register – Login – Cek Profil  
+✔ HTML/CSS/JS + PHP  
+✔ Backend CodeIgniter 4  
+✔ JWT Token Authentication  
+✔ Testing via Postman  
+✔ Perbaikan alur agar tidak kembali ke index  
 
 ---
 
-### 🎨 Blender 3D Modeling
-- Membuat objek 3D menggunakan script
-- Memperbaiki model yang bolong
-- Membuat bentuk mekanikal sesuai referensi
-- Eksperimen menggunakan Blender 5
+### ⚙️ **CodeIgniter 4 – Debugging & Setup**
+✔ Mengaktifkan ekstensi PHP (intl)  
+✔ Fix error routing, controller, dan view  
+✔ Menjalankan project via XAMPP  
+✔ Debug struktur folder CI4  
 
 ---
 
-## 🔧 Tech Stack
-**Mobile:** Flutter, Dart, GetX, Supabase  
-**Backend:** PHP, CodeIgniter 4, REST API, JWT  
-**Scripting:** Python, Regex  
-**Creative:** Blender 5  
+### 🐍 **Python Ethical Hacking Tool**
+**Recon Pro**  
+✔ Port Scanning  
+✔ HTTP Enumeration  
+✔ Regex Parser  
+✔ Untuk belajar cyber security di Kali Linux  
+
+---
+
+### 🎨 **3D Modeling (Blender 5)**
+✔ Buat objek pakai script  
+✔ Perbaiki mesh berlubang  
+✔ Modeling mekanikal sesuai referensi  
+✔ Eksperimen shading & mesh  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,php,regex,python,blender,github,git,html,css" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-> Aktifkan setelah mengunggah ke GitHub
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=syachrul&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syachrul&layout=compact&theme=tokyonight" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=syachrul&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syachrul&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syachrul&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syachrul&color=blue&style=flat-square" />
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-Saya suka dunia hacking, eksplorasi sistem, dan modeling objek 3D mekanikal.
+## ✨ Fun Fact
+💻 Saya suka belajar konsep hacking  
+🔧 Suka ngutak-ngatik sistem  
+🎨 Dan modeling 3D mekanikal adalah hobi saya  
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d44,100:1e1e2e&height=120&section=footer" />
+</p>
