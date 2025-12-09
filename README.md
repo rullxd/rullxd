@@ -1,7 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2d2d44&height=220&text=Syachrul%20Ramadani&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Mobile%20Developer%20%7C%20Creative%20Tech&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:002b5b,100:0a4d8c&height=200&text=Syachrul%20Ramadani&fontColor=00eaff&fontSize=48&animation=fadeIn&desc=Mobile%20Developer%20%7C%20Creative%20Tech&descAlignY=70&descSize=18" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=460&lines=Flutter+%7C+Supabase+Developer;Python+%7C+Cybersecurity+Enthusiast;3D+Modeling+%7C+Blender+5;Always+Learning+New+Things+!" />
+</p>
+
 
 ---
 
