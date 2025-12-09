@@ -73,24 +73,6 @@ Project-project ini semua pernah saya kerjakan langsung dalam proses pembelajara
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats-noblocks.vercel.app/api?username=syachrul&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats-noblocks.vercel.app/api/top-langs/?username=syachrul&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syachrul&color=blue&style=flat-square" />
-</p>
-
----
-
-## ✨ Fun Fact
-💻 Saya suka belajar konsep hacking  
-🔧 Suka ngutak-ngatik sistem  
-🎨 Dan modeling 3D mekanikal adalah hobi saya  
-
----
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -101,6 +83,16 @@ Project-project ini semua pernah saya kerjakan langsung dalam proses pembelajara
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+## ✨ Fun Fact
+💻 Saya suka belajar konsep hacking  
+🔧 Suka ngutak-ngatik sistem  
+🎨 Dan modeling 3D mekanikal adalah hobi saya  
+
+---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d44,100:1e1e2e&height=120&section=footer" />
